@@ -1,0 +1,82 @@
+{
+  "success": true,
+  "code": 200,
+  "data": {
+    "categories": [
+      {
+        "name": "巨无霸\n牛鱼肉堡",
+        "meals": [
+          {"code": "1100", "tags": ["单品", "100%纯牛肉"]},
+          {"code": "1120", "tags": ["单品", "100%纯牛肉"]},
+          {"code": "9900005466", "tags": ["套餐", "100%纯牛肉"]}
+        ]
+      },
+      {
+        "name": "鸡肉汉堡\n/卷",
+        "meals": [
+          {"code": "1406", "tags": ["单品", "板烧滋滋", "多汁惹味"]},
+          {"code": "1440", "tags": ["单品", "人气经典", "外酥里嫩"]}
+        ]
+      },
+      {
+        "name": "小食甜品\n/其他",
+        "meals": [
+          {"code": "4810", "tags": ["小食"]},
+          {"code": "4437", "tags": ["小食"]},
+          {"code": "521986", "tags": ["上新", "趁热拉丝", "奶香醇厚"]}
+        ]
+      }
+    ],
+    "meals": {
+      "1100": {
+        "name": "巨无霸",
+        "currentPrice": "26.5",
+        "originalPrice": "26.5",
+        "canWithOrder": false
+      },
+      "1120": {
+        "name": "双层吉士汉堡",
+        "currentPrice": "23",
+        "originalPrice": "23",
+        "canWithOrder": false
+      },
+      "1406": {
+        "name": "板烧鸡腿堡",
+        "currentPrice": "23.5",
+        "originalPrice": "23.5",
+        "canWithOrder": false
+      },
+      "1440": {
+        "name": "麦辣鸡腿汉堡",
+        "currentPrice": "22.5",
+        "originalPrice": "22.5",
+        "canWithOrder": false
+      },
+      "4810": {
+        "name": "薯条",
+        "currentPrice": "14.5",
+        "originalPrice": "14.5",
+        "canWithOrder": false
+      },
+      "4437": {
+        "name": "玉米杯",
+        "currentPrice": "13",
+        "originalPrice": "13",
+        "canWithOrder": false
+      },
+      "521986": {
+        "name": "马苏里拉拉丝芝士条",
+        "currentPrice": "11",
+        "originalPrice": "16",
+        "discountType": "促销优惠",
+        "canWithOrder": false
+      },
+      "9900005466": {
+        "name": "巨无霸三件套",
+        "currentPrice": "37.5",
+        "originalPrice": "51",
+        "canWithOrder": false
+      }
+    }
+  }
+}
